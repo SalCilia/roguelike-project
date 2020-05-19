@@ -1,0 +1,13 @@
+py -m pip install tcod   did not work
+
+python -m pip install --upgrade pip   Pip fully upgraded
+
+pip install tcod     This executed
+
+
+https://flask.palletsprojects.com/en/1.1.x/installation/  for setting up and activating virtual 
+	environment
+
+
+https://docs.python.org/3/library/venv.html
+https://pythonhow.com/using-virtualenv-with-your-flask-app/
