@@ -2,7 +2,7 @@ from map_objects.tile import Tile
 
 
 class GameMap:
-    def_init_(self, width, height):
+    def __init__(self, width, height):
         self.width = width
         self.height = height
         self.tiles = self.initialize_tiles()

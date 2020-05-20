@@ -1,6 +1,6 @@
 class Tile:
 
-    def_init_(self, blocked, block_sight=None):
+    def __init__(self, blocked, block_sight=None):
         self.blocked = blocked
 
         if block_sight is None:
