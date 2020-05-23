@@ -13,3 +13,9 @@ Type the following in the terminal in the correct directory: > venv\Scripts\acti
 
 https://docs.python.org/3/library/venv.html
 https://pythonhow.com/using-virtualenv-with-your-flask-app/
+
+On Tutorial 3. Python engine.py will not run. on section:
+
+"Now is a good time to run your code and make sure everything works as expected. 
+The changes we’ve made puts two sample rooms on the map, with our player in one of them 
+(our poor NPC is stuck in a wall though)."
