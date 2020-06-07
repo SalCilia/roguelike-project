@@ -87,7 +87,7 @@ def main():
 
             if not game_map.is_blocked(destination_x, destination_y):
                 target = get_blocking_entities_at_location(entities, destination_x, destination_y)
-
+                
                 if target:
                     attack_results = player.fighter.attack(target)
                     player_turn_results.extend(attack_results)
